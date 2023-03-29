@@ -1,5 +1,7 @@
 # Domain Scraper 
 
+>! ⚠️ **WARNING:** This tool is provided for educational and ethical purposes only. Do not use it for any illegal activities, as the author is not responsible for any misuse or damage caused by this tool. Use it at your own risk.
+
 Domain Scraper is a bash script that checks the availability of a list of domains provided in a file. It sends an HTTP request to each domain and outputs whether the domain is up or down.
 
 ## Requirements
