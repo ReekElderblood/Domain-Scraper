@@ -30,4 +30,5 @@ bash scraper.sh
 [+] Domain www.invalid-domain.com is DOWN!
 ````
 ## Credits
-This script was created by SecuritySphinx
+This script was created by Reek Elderblood 
+
